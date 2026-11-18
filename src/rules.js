@@ -1,0 +1,7 @@
+export const DAY_TYPES=['Working day','Sunday','Weekoff','Holiday','Special designated day'];
+export const CAP_MINUTES=4800;
+const parseDate=s=>{if(!/^\d{4}-\d{2}-\d{2}$/.test(s))throw Error('Select a valid date.');const d=Date.parse(`${s}T00:00:00Z`);if(!Number.isFinite(d)||new Date(d).toISOString().slice(0,10)!==s)throw Error('Invalid calendar date.');return d;};
+const parseTime=s=>{const m=/^([01]\d|2[0-3]):([0-5]\d)$/.exec(s||'');if(!m)throw Error('Use 24-hour HH:mm punch times.');return Number(m[1])*60+Number(m[2]);};
+export const duration=n=>`${Math.floor(n/60)}:${String(n%60).padStart(2,'0')}`;
+export function calculate(p){if(!DAY_TYPES.includes(p.dayType))throw Error('Choose a valid day type.');const month=p.startDate?.slice(0,7);if(month!==p.endDate?.slice(0,7))throw Error('Split an overnight entry that crosses a month.');const worked=Math.round((parseDate(p.endDate)-parseDate(p.startDate))/60000)+parseTime(p.endTime)-parseTime(p.startTime);if(worked<=0||worked>1440)throw Error('End must follow start and be within 24 hours.');const equivalent=p.dayType==='Working day'?(worked<30?0:worked):worked*8/6;const eligible=Math.round(equivalent/30)*30;return {month,worked,eligible,workedText:duration(worked),eligibleText:duration(eligible),decimal:eligible/60,paidDays:eligible/480};}
+export function checkCap(used,proposed){if(used+proposed>CAP_MINUTES)throw Error(`80-hour monthly limit reached. Remaining: ${duration(Math.max(0,CAP_MINUTES-used))}.`);}

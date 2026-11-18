@@ -1,0 +1,377 @@
+[
+  {
+    "code": "GTB2007",
+    "name": "BHANU GEHLOT",
+    "category": "Assistants"
+  },
+  {
+    "code": "GTB2008",
+    "name": "MUKESH KUMAR KUMAWAT",
+    "category": "Technical Supervisors"
+  },
+  {
+    "code": "GTB2017",
+    "name": "DEEPENDER RATHORE",
+    "category": "Managers"
+  },
+  {
+    "code": "GTB2018",
+    "name": "VIKAS SAXENA",
+    "category": "Managers"
+  },
+  {
+    "code": "GTB2020",
+    "name": "ROOP NARAYAN KUMAWAT",
+    "category": "Managers"
+  },
+  {
+    "code": "GTB2021",
+    "name": "SUNIL GURJAR",
+    "category": "Supervisor"
+  },
+  {
+    "code": "GTB2022",
+    "name": "RAJESH KUMAR SHARMA",
+    "category": "Managers"
+  },
+  {
+    "code": "JPHS00316",
+    "name": "NARENDRA KUMAR",
+    "category": "Peons"
+  },
+  {
+    "code": "JPHS00326",
+    "name": "RAJESH SHARMA",
+    "category": "Supervisor"
+  },
+  {
+    "code": "JPHS00327",
+    "name": "MUKESH KUMAR",
+    "category": "Supervisor"
+  },
+  {
+    "code": "JPHS00328",
+    "name": "MADAN LAL JAT",
+    "category": "Drivers"
+  },
+  {
+    "code": "JPHS00329",
+    "name": "RAJENDRA KUMAR SAINI",
+    "category": "Guards"
+  },
+  {
+    "code": "JPHS00330",
+    "name": "GIRDHARI SAINI",
+    "category": "Assistants"
+  },
+  {
+    "code": "JPHS00332",
+    "name": "JITENDRA SHARMA",
+    "category": "Peons"
+  },
+  {
+    "code": "JPHS00333",
+    "name": "SARFUDDIN",
+    "category": "Assistants"
+  },
+  {
+    "code": "JPHS00334",
+    "name": "HARIOM SAINI",
+    "category": "Peons"
+  },
+  {
+    "code": "JPHS00335",
+    "name": "BHAGWATI PRASAD",
+    "category": "Supervisor"
+  },
+  {
+    "code": "JPHS00336",
+    "name": "ROBY BERTY",
+    "category": "Assistants"
+  },
+  {
+    "code": "JPHS00340",
+    "name": "RAMJIT SUMAN",
+    "category": "Peons"
+  },
+  {
+    "code": "JPHS00343",
+    "name": "RAJENDRA KUMAR GURJAR",
+    "category": "Assistants"
+  },
+  {
+    "code": "JPHS00344",
+    "name": "KULDEEP MEENA",
+    "category": "Guards"
+  },
+  {
+    "code": "JPHS00345",
+    "name": "VIMLA",
+    "category": "Baijis"
+  },
+  {
+    "code": "JPHS00347",
+    "name": "RAMBAHADUR MALI",
+    "category": "Peons"
+  },
+  {
+    "code": "JPHS00350",
+    "name": "ANITA BAI",
+    "category": "Baijis"
+  },
+  {
+    "code": "JPHS00351",
+    "name": "SUMITRA DHANWANT BAIJI",
+    "category": "Baijis"
+  },
+  {
+    "code": "JPHS00356",
+    "name": "HEM RAJ JAT",
+    "category": "Guards"
+  },
+  {
+    "code": "JPHS00357",
+    "name": "RAM CHANDRA",
+    "category": "Technical Supervisors"
+  },
+  {
+    "code": "JPHS00362",
+    "name": "MOOL CHAND SAIN",
+    "category": "Assistants"
+  },
+  {
+    "code": "JPHS00364",
+    "name": "AZARUDDIN",
+    "category": "Peons"
+  },
+  {
+    "code": "JPHS00366",
+    "name": "BAL MUKUND MEHAR",
+    "category": "Peons"
+  },
+  {
+    "code": "JPHS00367",
+    "name": "SHALU DEVI",
+    "category": "Baijis"
+  },
+  {
+    "code": "JPHS00372",
+    "name": "NARSINGH BADGURJAR",
+    "category": "Assistants"
+  },
+  {
+    "code": "JPHS00373",
+    "name": "RAMESHCHANDRA",
+    "category": "Technical Supervisors"
+  },
+  {
+    "code": "JPHS00377",
+    "name": "MEMRAJ SUMAN",
+    "category": "Peons"
+  },
+  {
+    "code": "JPHS00381",
+    "name": "INDRA RAJ SAINI",
+    "category": "Gardener"
+  },
+  {
+    "code": "JPHS00384",
+    "name": "CHANDA DEVI KUMAWAT",
+    "category": "Baijis"
+  },
+  {
+    "code": "JPHS00387",
+    "name": "VINITA DEVI MEHRA",
+    "category": "Assistants"
+  },
+  {
+    "code": "JPHS00390",
+    "name": "SUNITA DEVI",
+    "category": "Baijis"
+  },
+  {
+    "code": "JPHS00393",
+    "name": "RINA",
+    "category": "Baijis"
+  },
+  {
+    "code": "JPHS00402",
+    "name": "PUSHPA DEVI",
+    "category": "Baijis"
+  },
+  {
+    "code": "JPHS00404",
+    "name": "DHARMENDRA KUMAR SAINI",
+    "category": "Assistants"
+  },
+  {
+    "code": "JPHS00405",
+    "name": "RAM NARESH SUMAN",
+    "category": "Gardener"
+  },
+  {
+    "code": "JPHS00409",
+    "name": "RAJU RAIGAR",
+    "category": "Technical Supervisors"
+  },
+  {
+    "code": "JPHS00411",
+    "name": "DHEERAJ KUMAR",
+    "category": "Technical Supervisors"
+  },
+  {
+    "code": "JPHS00416",
+    "name": "SATISH KUMAR JYOTISHI",
+    "category": "Drivers"
+  },
+  {
+    "code": "JPHS00422",
+    "name": "NAND KISHOR KUMAWAT",
+    "category": "Supervisor"
+  },
+  {
+    "code": "JPHS00425",
+    "name": "SUMAN LATA",
+    "category": "Baijis"
+  },
+  {
+    "code": "JPHS00427",
+    "name": "NITESH KUMAR KUMAWAT",
+    "category": "Technical Supervisors"
+  },
+  {
+    "code": "JPHS00428",
+    "name": "PRAVEEN SAINI",
+    "category": "Drivers"
+  },
+  {
+    "code": "JPHS00437",
+    "name": "ARJUN SINGH",
+    "category": "Guards"
+  },
+  {
+    "code": "JPHS00453",
+    "name": "BEENA",
+    "category": "Baijis"
+  },
+  {
+    "code": "JPHS00470",
+    "name": "MANOJ KUMAR",
+    "category": "Guards"
+  },
+  {
+    "code": "JPHS00487",
+    "name": "YATINDRA VERMA",
+    "category": "Assistants"
+  },
+  {
+    "code": "JPHS00495",
+    "name": "VINAY PRATAP",
+    "category": "Assistants"
+  },
+  {
+    "code": "JPHS00520",
+    "name": "LOKESH DOTANIYA",
+    "category": "Technical Supervisors"
+  },
+  {
+    "code": "JPHS00535",
+    "name": "PRIYANSHU GUPTA",
+    "category": "Peons"
+  },
+  {
+    "code": "JPHS00536",
+    "name": "LAL SINGH RATHORE",
+    "category": "Guards"
+  },
+  {
+    "code": "JPHS00540",
+    "name": "SANTOSH",
+    "category": "Baijis"
+  },
+  {
+    "code": "JPHS00541",
+    "name": "KALU RAM",
+    "category": "Peons"
+  },
+  {
+    "code": "JPHS00547",
+    "name": "SATISH KUMAR BUNKAR",
+    "category": "Technical Supervisors"
+  },
+  {
+    "code": "JPHS00555",
+    "name": "ABHISHEK DHANAKA",
+    "category": "Assistants"
+  },
+  {
+    "code": "JPHS00580",
+    "name": "VIMLESH SAINI",
+    "category": "Peons"
+  },
+  {
+    "code": "JPHS00581",
+    "name": "GANESH",
+    "category": "Drivers"
+  },
+  {
+    "code": "JPHS00604",
+    "name": "VIRENDER SINGH SHEKHAWAT",
+    "category": "Supervisor"
+  },
+  {
+    "code": "JPHS00612",
+    "name": "NARENDRA SINGH",
+    "category": "Drivers"
+  },
+  {
+    "code": "JPHS00615",
+    "name": "TARUN KUMAR SHARMA",
+    "category": "Technical Supervisors"
+  },
+  {
+    "code": "JPHS00616",
+    "name": "MANOJ KUMAR",
+    "category": "Peons"
+  },
+  {
+    "code": "JPHS00635",
+    "name": "VIJENDRA RATHADIYA",
+    "category": "Peons"
+  },
+  {
+    "code": "JPHS00636",
+    "name": "SHAYMA DEVI",
+    "category": "Baijis"
+  },
+  {
+    "code": "JPHS00637",
+    "name": "RENVAL SHAILESH SUNIL",
+    "category": "Guards"
+  },
+  {
+    "code": "JPHS00638",
+    "name": "SATYANARAYAN MEHRA",
+    "category": "Guards"
+  },
+  {
+    "code": "JPHS00649",
+    "name": "MANISH DOTANIYA",
+    "category": "Assistants"
+  },
+  {
+    "code": "JPHS00652",
+    "name": "UMESH KHATNAWAL",
+    "category": "Assistants"
+  },
+  {
+    "code": "JPHS00656",
+    "name": "RAJU SAINI",
+    "category": "Supervisor"
+  },
+  {
+    "code": "JPHS00667",
+    "name": "VISHNU KUMAR MALI",
+    "category": "Peons"
+  }
+]
